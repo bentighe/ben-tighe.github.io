@@ -20,3 +20,25 @@ Algebraic geometry, Hodge theory, singularities and moduli of symplectic and Cal
 ### Papers  
 - [*The Holomorphic Extension Property for k du Bois Singularities*](https://arxiv.org/abs/2312.01245). Preprint, submitted (2024).
 - [*The LLV Algebra for Primitive Symplectic Varieties for Isolated Singularities*](https://arxiv.org/abs/2211.06776). Preprint, submitted (2024).
+
+## Teaching
+
+### University of Oregon
+- Math 231, Winter 2024 (Discrete Mathematics)
+- Math 251, Fall 2023 (Calculus I)
+
+### Loyola Univeristy
+- COMP 163, Spring 2023 (Discrete Structures)
+- COMP 163, Fall 2022 (Discrete Structures)
+
+### University of Illinois at Chicago
+- Math 220, Spring 2023 (Differential Equations, TA)
+- Math 090, Fall 2022 (Intermediate Algebra)
+- Math 160, Spring 2022 (Finite Math for Business Students, TA)
+- Math 090, Fall 2021 (Intermediate Algebra)
+- Math 118, Fall 2020 (Mathematical Reasoning, TA)
+
+### University of Georgia
+- Math 1113, Spring 2020 (Precalculus)
+- Math 1113, Fall 2019 (Precalculus)
+
