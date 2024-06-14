@@ -22,33 +22,33 @@ Algebraic geometry, Hodge theory, singularities and moduli of symplectic and Cal
 ### Research Talks
 - (May 2024) "Applications of the du Bois Complex to Symplectic Singularities," RATCOW Seminar, UO.
 
--(May 2024) "Applications of the du Bois Complex to Symplectic Singularities," Singularities in Ann Arbor (Poster), University of Michigan.
+- (May 2024) "Applications of the du Bois Complex to Symplectic Singularities," Singularities in Ann Arbor (Poster), University of Michigan.
 
--(April 2024) "Rational v.s. k-du Bois Singularities," AAG Seminar, UW.
+- (April 2024) "Rational v.s. k-du Bois Singularities," AAG Seminar, UW.
 
--(November 2023) "Applications of the du Bois Complex to Symplectic Singularities", WAGS (Poster), WUSTL.
+- (November 2023) "Applications of the du Bois Complex to Symplectic Singularities", WAGS (Poster), WUSTL.
 
--(October 2023) "The LLV Agebra for Singular Symplectic Varieties", Algebra Seminar, UO.
+- (October 2023) "The LLV Agebra for Singular Symplectic Varieties", Algebra Seminar, UO.
 
--(April 2023) "An Algebraic Proof of the LLV Structure THeorem," Lightning Talk GAGS, UGA.
+- (April 2023) "An Algebraic Proof of the LLV Structure THeorem," Lightning Talk GAGS, UGA.
 
--(March 2023) "The LLV Algebra for Singular Symplectic Varieties," PhD Defense, UIC.
+- (March 2023) "The LLV Algebra for Singular Symplectic Varieties," PhD Defense, UIC.
 
--(January 2023) "An Algebraic Proof of the Looijenga-Lunts-Verbitsky Structure Theorem," Algebraic Geometry Seminar, Northwestern.
+- (January 2023) "An Algebraic Proof of the Looijenga-Lunts-Verbitsky Structure Theorem," Algebraic Geometry Seminar, Northwestern.
 
--(June 2022) "Extending Differential Forms across Higher du Bois Singularities," Algebraic Geometry and Singularities Conference, UW.
+- (June 2022) "Extending Differential Forms across Higher du Bois Singularities," Algebraic Geometry and Singularities Conference, UW.
 
--(November 2020) "Betti Numbers of Singular Symplectic Varieties," ZOOMerFest.
+- (November 2020) "Betti Numbers of Singular Symplectic Varieties," ZOOMerFest.
 
--(July 2020) "Singular Symplectic Varieties," Graduate Student Summer Conference, UGA.
+- (July 2020) "Singular Symplectic Varieties," Graduate Student Summer Conference, UGA.
 
--(October 2019) "Bounds on the Betti Numbers of Hyperkahler Manifolds," Graduate Topology Seminar, UGA.
+- (October 2019) "Bounds on the Betti Numbers of Hyperkahler Manifolds," Graduate Topology Seminar, UGA.
 
--(May 2019) "Maximal Families of Borcea-Voisin Calabi-Yau Varieties," Oral Exam Seminar, UGA.
+- (May 2019) "Maximal Families of Borcea-Voisin Calabi-Yau Varieties," Oral Exam Seminar, UGA.
 
--(April 2019) "Maximal Families of Borcea-Voisin Calabi-Yau Varieties," Graduate Algebraic Geometry Seminar, UGA.
+- (April 2019) "Maximal Families of Borcea-Voisin Calabi-Yau Varieties," Graduate Algebraic Geometry Seminar, UGA.
 
--(January 2018) "Bounds on the Number of Polarized Variations of Hodge Structure," Hodge Theory VRG, UGA.
+- (January 2018) "Bounds on the Number of Polarized Variations of Hodge Structure," Hodge Theory VRG, UGA.
 
 ## Teaching
 
