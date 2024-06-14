@@ -5,8 +5,6 @@
 layout: Benjamin Tighe
 ---
 
-<img src='assets/images/profile.jpeg' style="float:left; width:45%; margin:15px;"/>
-
 ## About
 
 Welcome! I am an RTG Postdoc at the University of Oregon under the supervision of Nick Addington.  I received my PhD from the University of Illinois at Chicago.  My advisor was Benjamin Bakker.
